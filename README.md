@@ -23,11 +23,11 @@ Here are some Bash commands you can use to set up this project:
 
 <br/>
 
-*  **Clone project**
+* **Clone project**
   ```bash
     git clone <--project url>
 
-* **Install the following dependencies in todolist path of project**
+* **Install the following dependencies in frontend path of project**
   ```bash
     npm install
 
