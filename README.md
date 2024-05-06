@@ -24,7 +24,7 @@ Here are some Bash commands you can use to set up this project:
 <br/>
 * **Clone project**
   ```bash
-    git clone https://github.com/Ngwasiri-Ryan/Weather_App_React.git
+    git clone <--project url>
 
 * **Install the following dependencies in todolist path of project**
   ```bash
