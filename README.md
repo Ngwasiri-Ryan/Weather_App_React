@@ -1,10 +1,10 @@
 ## Food Manager App
 
-This is a frontend design of a Food Manager mobile aaplication compatible for both Android and iOS
+This is a weather app built with Vite + React js
 <br/>
 
-This Food Manager app allows us to view all avialable food items along with their quantiy in measurable units and the expiry date.
-
+This app allows users search the weather of a particular location searched and displays an icon as well.
+Data is being fetched from Open Weather using their Open Weather API key.
 
 <img src="./read_me_images/img1.PNG" alt="Alt text" style="height: 300px;width: 800px;  border-radius: 5px;"/>
 <br/>
@@ -17,13 +17,14 @@ This Food Manager app allows us to view all avialable food items along with thei
 
 Here are some Bash commands you can use to set up this project:
 
+* **Install git on official website:** https://git-scm.com
+
 * **Install nodejs on official website:** https://www.nodejs.org
 
 <br/>
-
-* **Install expo global expo cli**
+* **Clone project**
   ```bash
-     npm i --g expo-cli
+    git clone https://github.com/Ngwasiri-Ryan/Weather_App_React.git
 
 * **Install the following dependencies in todolist path of project**
   ```bash
@@ -31,4 +32,4 @@ Here are some Bash commands you can use to set up this project:
 
 * **To run project**
   ```bash
-    npx expo
+    npm run dev
