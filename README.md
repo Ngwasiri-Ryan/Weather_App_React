@@ -22,7 +22,8 @@ Here are some Bash commands you can use to set up this project:
 * **Install nodejs on official website:** https://www.nodejs.org
 
 <br/>
-* **Clone project**
+
+*  **Clone project**
   ```bash
     git clone <--project url>
 
